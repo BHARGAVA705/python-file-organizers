@@ -1,4 +1,4 @@
-# Python File Organizer Automation
+Í# Python File Organizer Automation
 
 ## Description
 This project is a Python automation script that organizes files in a given folder
@@ -52,4 +52,4 @@ A log file named `file_organizer.log` is created to track all operations.
 ---
 
 ## Author
-Internship Candidate
+M.V.Bhargava Reddy 
